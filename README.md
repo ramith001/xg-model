@@ -36,12 +36,12 @@ A machine learning pipeline that trains and evaluates multiple xG models on Stat
 
 ## Outputs
 
-- `shot_map.png` — all WC 2022 shots plotted by xG value
-- `xg_timeline_{match_id}.png` — xG flow chart per match
-- `xg_validation.png` — predicted vs StatsBomb xG scatter
-- `feature_importance.png` — Random Forest feature weights
-- `calibration.png` — model calibration curves
-- `eda_analysis.png` — exploratory data analysis
+- `shot_map.png`: all WC 2022 shots plotted by xG value
+- `xg_timeline_{match_id}.png`: xG flow chart per match
+- `xg_validation.png`: predicted vs StatsBomb xG scatter
+- `feature_importance.png`: Random Forest feature weights
+- `calibration.png`: model calibration curves
+- `eda_analysis.png`: exploratory data analysis
 
 ## Data
 
