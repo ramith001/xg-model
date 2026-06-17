@@ -1,4 +1,4 @@
-# xG Model — Expected Goals from StatsBomb World Cup 2022 Data
+# xG Model: Expected Goals from StatsBomb World Cup 2022 Data
 
 A machine learning pipeline that trains and evaluates multiple xG models on StatsBomb open event data from the 2022 FIFA World Cup, then validates predictions against StatsBomb's own xG values.
 
